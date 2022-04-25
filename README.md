@@ -4,20 +4,34 @@ Sticky is a note-taking app for the Linux desktop that simulates traditional "st
 ![img](https://linuxmint.com/pictures/screenshots/uma/sticky.png)
 
 # New Section - What are some things you would write on a Sticky Note? 
-A Open Source Sticky Note Application.
+<b>A Open Source Sticky Note Application.</b>
+
 Automatically Save Notes
+
 Sync Your Note With Dropbox Account(Use This Account To Start Your Sticky Notes Where You Left Off)
+
 Choose Background And Title Bar Color You Like
+
 Editing Options Like Font,Bold,Size,Italic,List,Align.etc
+
 Add Images To Note From Local Drive
+
 Add Audio To Note From Local Drive
+
 Add Video To Note From Local Drive
+
 Lock The Note
+
 Import Note From A File
+
 Export Note To A File
+
 Undo,Redo Options
+
 Spellcheck
+
 Profiles
+
 Light And Dark Theme
 ## How to build and install
 
