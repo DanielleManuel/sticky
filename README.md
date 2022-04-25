@@ -4,7 +4,7 @@ Sticky is a note-taking app for the Linux desktop that simulates traditional "st
 ![img](https://linuxmint.com/pictures/screenshots/uma/sticky.png)
 
 # New Section - What are some things you would write on a Sticky Note? 
-<b>A Open Source Sticky Note Application.</b>
+Open Source Sticky Note Application
 
 Automatically Save Notes
 
